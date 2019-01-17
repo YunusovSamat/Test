@@ -1,0 +1,1 @@
+include ':app', ':oneactivitystate', ':intentextras', ':activityresult', ':simpleintents2', ':simplebrowser', ':preferences', ':simplesqlite', ':sqlitequery', ':layoutinflater'

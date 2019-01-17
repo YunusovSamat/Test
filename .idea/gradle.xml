@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activityresult" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/intentextras" />
+            <option value="$PROJECT_DIR$/layoutinflater" />
+            <option value="$PROJECT_DIR$/oneactivitystate" />
+            <option value="$PROJECT_DIR$/preferences" />
+            <option value="$PROJECT_DIR$/simplebrowser" />
+            <option value="$PROJECT_DIR$/simpleintents2" />
+            <option value="$PROJECT_DIR$/simplesqlite" />
+            <option value="$PROJECT_DIR$/sqlitequery" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
